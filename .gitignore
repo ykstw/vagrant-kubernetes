@@ -1,0 +1,5 @@
+ansible.log
+kubeadm-join.tmp
+.vagrant/
+ubuntu-bionic-18.04-cloudimg-console.log
+kubeconfig/config
